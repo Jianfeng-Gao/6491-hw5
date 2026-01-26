@@ -18,7 +18,10 @@
     <ClInclude Include="fms_perceptron.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="stdBLAS\include\experimental\__p1673_bits\linalg_config.h">
+    <ClInclude Include="fms_linalg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="fms_error.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
